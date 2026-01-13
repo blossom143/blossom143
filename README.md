@@ -1,6 +1,6 @@
 ## 👋 Hii ✨  
 
-I’m **Tsomorlig** , I’m a **Data Engineer** with a **B.S. in Software Engineering** and an **M.S. in Engineering Science, Data Science**, focused on building **reliable, scalable data pipelines** and turning complex data into **trusted, actionable insights**.
+I’m **Tsomorlig** , I’m a **Data Engineer** with a **B.S. in Software Engineering**, currently pursuing my **M.S. in Engineering Science (Data Science)**, focused on building **reliable, scalable data pipelines** and turning complex data into **trusted, actionable insights**.
 
 I enjoy working at the intersection of **data systems, analytics, and business**, with a strong emphasis on correctness, performance, and long-term maintainability.
 
@@ -17,8 +17,8 @@ I enjoy working at the intersection of **data systems, analytics, and business**
 
 ### **Data Engineering**  
 - **Processing**: Spark, Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow , Iceberg, Snowflake, dbt
-- **Databases**: PostgreSQL, MySQL, MongoDB, Redshift, DynamoDB, Oracle  
-- **Cloud Platforms**: AWS, GCP, Azure
+- **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB  
+- **Cloud Platforms**: AWS, Azure
 
 ### **Data Visualization & Analytics**: Tableau, Power BI, Amazon QuickSight
 
