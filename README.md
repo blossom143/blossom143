@@ -30,7 +30,7 @@ I bridge the gap between complex data modeling and high-availability system arch
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=aws,py,regex,github,git,mongodb,mysql,java,spring,js,nodejs,react,express,jest,jenkins,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes,github,git,mongodb,mysql,java,spring,terraform,redhat,jenkins,cpp)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
