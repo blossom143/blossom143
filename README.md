@@ -4,7 +4,7 @@ I’m **Tsomorlig** , I’m a **Data Engineer** with a **B.S. in Software Engine
 
 **I excel in Cloud-Native Data Engineering & MLOps **
 
-I bridge the gap between complex data modeling and high-availability system architecture. With a background leading teams to maintain 99.9% uptime for microservices and implementing MLOps from scratch, I specialize in building resilient, automated data ecosystems. I don't just move data. I ensure it is governed, scalable, and cost-efficient.
+I bridge the gap between complex data modeling and high-availability system architecture. With a background leading teams to maintain 99.9% uptime for microservices and implementing MLOps from scratch, I specialize in building resilient, automated data ecosystems. 
 
 
 <!--
@@ -30,10 +30,10 @@ I bridge the gap between complex data modeling and high-availability system arch
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes,github,git,mongodb,mysql,java,spring,terraform,redhat,jenkins,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,aws,azure,kubernetes,docker,git,mongodb,mysql,java,spring,terraform,redhat,linux,jenkins,cpp,firebase)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=r,pytorch,)](https://skillicons.dev)
 
 ### Connect with me!
 <div>
