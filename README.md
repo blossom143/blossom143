@@ -48,8 +48,6 @@ I bridge the gap between complex data modeling and high-availability system arch
 > [!IMPORTANT]  
 > <a href="https://docs.google.com/document/d/1xrVG80HHACq2HyWTkbILifScb6ehs1pz/edit?usp=share_link&ouid=100000751235040802892&rtpof=true&sd=true" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-
 <!--
      Thanks for being my guest 
 -->
