@@ -1,6 +1,6 @@
 ## Hello, hello 👋👋 
 
-I’m **Tsomorlig Khishigbold** , I’m a **Data Engineer** with a **B.S. in Software Engineering**, currently pursuing my **M.S. in Engineering Science (Data Science)** at SUNY University at Buffalo. 
+I’m **Tsomorlig Khishigbold**. I’m a **Data Engineer** with a **B.S. in Software Engineering**, currently pursuing my **M.S. in Engineering Science (Data Science)** at SUNY University at Buffalo. 
 
 **I excel in Cloud-Native Data Engineering & MLOps**
 
