@@ -2,7 +2,7 @@
 
 I’m **Tsomorlig** , I’m a **Data Engineer** with a **B.S. in Software Engineering**, currently pursuing my **M.S. in Engineering Science (Data Science)**. 
 
-**I excel in** Cloud-Native Data Engineering • MLOps 
+**I excel in Cloud-Native Data Engineering & MLOps **
 
 I bridge the gap between complex data modeling and high-availability system architecture. With a background leading teams to maintain 99.9% uptime for microservices and implementing MLOps from scratch, I specialize in building resilient, automated data ecosystems. I don't just move data. I ensure it is governed, scalable, and cost-efficient.
 
