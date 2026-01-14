@@ -1,43 +1,55 @@
-## 👋 Hello, there ✨  
+## Hello, hello 👋👋 
+
+I’m **Tsomorlig** , I’m a **Data Engineer** with a **B.S. in Software Engineering**, currently pursuing my **M.S. in Engineering Science (Data Science)**. 
+
+##I excel in: Cloud-Native Data Engineering • MLOps • Infrastructure as Code • ELT/ETL Optimization
+I bridge the gap between complex data modeling and high-availability system architecture. With a background leading teams to maintain 99.9% uptime for microservices and implementing MLOps from scratch, I specialize in building resilient, automated data ecosystems. I don't just move data. I ensure it is governed, scalable, and cost-efficient.
 
 
+<!--
+    Hey there, I'm Tsomorlig Khishigbold!
+    Happy to see you here exploring my README code
+    Feel free to get inspiration!
+    
+    I was also inspired by the awesome @daria-stanilevici 
+-->
 
-I’m **Tsomorlig** , I’m a **Data Engineer** with a **B.S. in Software Engineering**, currently pursuing my **M.S. in Engineering Science (Data Science)**, I bridge the gap between complex data modeling and high-availability system architecture.
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
 
-With a background leading teams to maintain 99.9% uptime for microservices and implementing MLOps from scratch, I specialize in building resilient, automated data ecosystems. I don't just move data; I ensure it is governed, scalable, and cost-efficient.
+<div>
+    <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
+</div>
 
-Core Focus: Cloud-Native Data Engineering • MLOps • Infrastructure as Code • ELT/ETL Optimization.
+<!--
+     My mission, because I'm a superhero!
+-->
+<!--
+     This is the list of my skills and tools I am studying!
+-->
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=aws,py,regex,github,git,mongodb,mysql,java,spring,js,nodejs,react,express,jest,jenkins,cpp)](https://skillicons.dev)
 
-📍 Buffalo, New York  
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsomorlig/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsomorligkh@gmail.com)
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/tsomorlig/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="https://www.credly.com/users/tsomorlig-khishigbold">
+        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
+</div>
 
----
 
-## 🛠️ Skills & Technologies  
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://docs.google.com/document/d/1xrVG80HHACq2HyWTkbILifScb6ehs1pz/edit?usp=share_link&ouid=100000751235040802892&rtpof=true&sd=true" download>Download my resume</a>
 
-### **Languages**  : Python, SQL
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
-### **Data Engineering**  
-- **Processing**: Spark, Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow , Iceberg, Snowflake, dbt
-- **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB  
-- **Cloud Platforms**: AWS, Azure
-
-### **Data Visualization & Analytics**: Tableau, Power BI, Amazon QuickSight
-
----
-
-## 🎓 Certifications  
-
-- **AWS Certified Solutions Architect – Associate**
-- **Certified Kubernetes Security Specialist**  
-- **Certified Kubernetes Administrator**
-- **IBM AI Engineering Professional**
-
----
-
-## 🚀 Currently
-- Preparing for **Data Engineer** roles
-- Pursuing MS in Engineering Science, Data Science at SUNY University at Buffalo
-- Building small, focused projects to demonstrate production-ready data engineering
+<!--
+     Thanks for being my guest 
+-->
