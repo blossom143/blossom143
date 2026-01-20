@@ -4,7 +4,7 @@ I’m **Tsomorlig Khishigbold**. I’m a **Data Engineer** with a **B.E. in Soft
 
 **I specialize in building reliable, cloud-native data platforms and production-grade MLOps pipelines.**
 
-With a background leading teams to maintain 99.9% uptime for microservices and implementing MLOps from scratch, I specialize in building resilient, automated data ecosystems. 
+
 
 
 <!--
