@@ -30,7 +30,7 @@ I’m **Tsomorlig Khishigbold**. I’m a **Data Engineer** with a **B.E. in Soft
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,flask,aws,azure,kubernetes,docker,git,mongodb,mysql,java,spring,terraform,redhat,linux,jenkins,cpp,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,aws,azure,kubernetes,mongodb,mysql,terraform,linux,jenkins)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=r,pytorch,)](https://skillicons.dev)
