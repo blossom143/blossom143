@@ -1,6 +1,6 @@
 ## Hello, hello 👋👋 
 
-I’m **Tsomorlig Khishigbold**. I’m a **Data Engineer** with a **B.E. in Software Engineering**, currently pursuing my **M.S. in Engineering Science (Data Science)** at SUNY University at Buffalo. I have 5+ years of experience automating and shipping production-grade systems designed for Cloud Native development. 
+I’m **Tsomorlig Khishigbold**. I’m an **AI Engineer** with a **B.E. in Software Engineering**, currently pursuing my **M.S. in Engineering Science (Data Science)** at SUNY University at Buffalo. I have 5+ years of experience automating and shipping production-grade systems designed for Cloud Native development. 
 
 **My research special interest is Reinforcement Learning.**
 
