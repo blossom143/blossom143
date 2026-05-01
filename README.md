@@ -1,6 +1,6 @@
 ## Hello, hello 👋👋 
 
-I’m **Tsomorlig Khishigbold**. I’m an **AI Engineer** with a **B.E. in Software Engineering**, currently pursuing my **M.S. in Engineering Science (Data Science)** at SUNY University at Buffalo. I have 5+ years of experience automating and shipping production-grade systems designed for Cloud Native development. 
+I’m **Tsomorlig Khishigbold**. I’m an **AI Engineer** with a **B.E. in Software Engineering**, currently pursuing my **M.S. in Data Science** at SUNY University at Buffalo. I have 5+ years of experience automating and shipping production-grade systems designed for Cloud Native development. 
 
 **My research special interest is Reinforcement Learning.**
 
@@ -8,11 +8,10 @@ I’m **Tsomorlig Khishigbold**. I’m an **AI Engineer** with a **B.E. in Softw
 
 
 <!--
-    Hey there, I'm Tsomorlig Khishigbold!
     Happy to see you here exploring my README code
     Feel free to get inspiration!
     
-    I was also inspired by the awesome @daria-stanilevici 
+    My ReadMe was inspired by the awesome @daria-stanilevici 
 -->
 
 <!--
