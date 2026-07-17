@@ -1,5 +1,5 @@
 ## Hi there, I'm Tsomorlig (Summer) 👋👋 
-I am a **Data Scientist** with a strong foundation in **Software Engineering** (B.E.) and am advancing my degree in **Data Science** (M.S., GPA 3.8/4.0) from the University at Buffalo. 
+I am an **Applied Data Scientist** with a strong foundation in **Software Engineering** (B.E.) and am advancing my degree in **Data Science** (M.S., GPA 3.8/4.0) from the University at Buffalo. 
 
 Before diving deep into advanced ML models and statistical analysis, I spent **5+ years architecting and scaling mission-critical, high-scale enterprise infrastructure** in the banking sector, managing 300+ microservices for 2M+ active users and building production grade Kubernetes platforms.
 
@@ -50,7 +50,7 @@ Before diving deep into advanced ML models and statistical analysis, I spent **5
 
 ## What I'm Looking For
 
-I thrive in roles where complex data meets production scale. I am actively looking for **Data Scientist** opportunities where I can help teams bridge the gap between AI research and highly available, secure system architectures.
+I am actively seeking **Data Scientist roles** in the US where I can leverage both my advanced data science training and my software engineering background to deploy highly accurate, robust models that drive impact.
 
 <!-- <div>
     <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
