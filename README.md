@@ -5,7 +5,7 @@ Before diving deep into advanced ML models and statistical analysis, I spent **5
 
 **My mission as a Data Scientist is to not just build great machine learning models in a Jupyter Notebook, but to leverage my experience in production, DevOps, and cloud native development to build high-performing models with clean, optimized, production-ready codebases.**
 
-> **My Focus:** Applying Reinforcement Learning, Deep Learning, and Advanced Analytics to solve complex business problems, with a focus on reproducibility, scalability, and robust data pipelining.
+> **My Focus:** Applied Algorithmic Modeling, Production-Grade ML Deployments, Scalable End-to-End Pipelines, Reproducible Data Architectures, Enterprise-Scale System Reliability
 
 <!--
     Happy to see you here exploring my README code
@@ -20,7 +20,6 @@ Before diving deep into advanced ML models and statistical analysis, I spent **5
 
 ### Core skills
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,flask,aws,azure,kubernetes,mongodb,mysql,terraform,linux,jenkins)](https://skillicons.dev)
-
 ---
 
 ## Certifications
