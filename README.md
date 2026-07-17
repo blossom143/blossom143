@@ -1,7 +1,7 @@
 ## Hi there, I'm Tsomorlig (Summer) 👋👋 
 I am a **Data Scientist** with a strong foundation in **Software Engineering** (B.E.) and am advancing my degree in **Data Science** (M.S., GPA 3.8/4.0) from the University at Buffalo. 
 
-Before diving deep into advanced ML models and statistical analysis, I spent **5+ years architecting and scaling mission-critical, high-scale enterprise infrastructure** in the banking sector—managing 300+ microservices for 2M+ active users and building secure, production grade Kubernetes platforms.
+Before diving deep into advanced ML models and statistical analysis, I spent **5+ years architecting and scaling mission-critical, high-scale enterprise infrastructure** in the banking sector, managing 300+ microservices for 2M+ active users and building production grade Kubernetes platforms.
 
 **My mission as a Data Scientist is to not just build great machine learning models in a Jupyter Notebook, but to leverage my experience in production, DevOps, and cloud native development to build high-performing models with clean, optimized, production-ready codebases.**
 
