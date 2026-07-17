@@ -15,22 +15,15 @@ Before diving deep into advanced ML models, I spent **5+ years architecting and 
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
 
-<div>
-    <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
-</div>
-
-<!--
-     My mission, because I'm a superhero!
--->
-<!--
-     This is the list of my skills and tools I am studying!
--->
-### Main skills
+### Core skills
 [![My Skills](https://skillicons.dev/icons?i=py,flask,aws,azure,kubernetes,mongodb,mysql,terraform,linux,jenkins)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=r,pytorch,)](https://skillicons.dev)
 
+<div>
+    <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
+</div>
 ### Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/tsomorlig/">
