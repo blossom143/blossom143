@@ -3,7 +3,7 @@ I’m a **Data Scientist** pursuing **M.S. in Data Science** at University at Bu
 
 Before diving deep into advanced ML models, I spent **5+ years architecting and scaling mission-critical, high-scale enterprise infrastructure** in the banking sector—managing 300+ microservices for 2M+ active users and building secure, production grade Kubernetes platforms.
 
-> **My mission as a data scientist is to not just build great machine learning models in a Jupyter Notebook, but to leverage my experience in systems engineering, DevOps, and cloud expertise required to scale, secure, and productionalize them for enterprise deployment.**
+**My mission as a data scientist is to not just build great machine learning models in a Jupyter Notebook, but to leverage my experience in systems engineering, DevOps, and cloud expertise required to scale, secure, and productionalize them for enterprise deployment.**
 <!--
     Happy to see you here exploring my README code
     Feel free to get inspiration!
