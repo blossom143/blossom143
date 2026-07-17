@@ -1,12 +1,9 @@
-## Hello, hello 👋👋 
+## Hi there, I'm Tsomorlig (Summer) 👋👋 
+I’m a **Data Scientist** pursuing **M.S. in Data Science** at University at Buffalo. 
 
-I’m **Tsomorlig Khishigbold**. I’m an **AI Engineer** with a **B.E. in Software Engineering**, currently pursuing my **M.S. in Data Science** at SUNY University at Buffalo. I have 5+ years of experience automating and shipping production-grade systems designed for Cloud Native development. 
+Before diving deep into advanced ML models, I spent **5+ years architecting and scaling mission-critical, high-scale enterprise infrastructure** in the banking sector—managing 300+ microservices for 2M+ active users and building secure, production grade Kubernetes platforms.
 
-**My research special interest is Reinforcement Learning.**
-
-
-
-
+> **My mission as a data scientist is to not just build great machine learning models in a Jupyter Notebook, but to leverage my experience in systems engineering, DevOps, and cloud expertise required to scale, secure, and productionalize them for enterprise deployment.**
 <!--
     Happy to see you here exploring my README code
     Feel free to get inspiration!
