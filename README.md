@@ -49,7 +49,7 @@ Before diving deep into advanced ML models and statistical analysis, I spent **5
 
 ## What I'm Looking For
 
-I am actively seeking **Data Scientist roles** in the US where I can leverage both my advanced data science training and my software engineering background to deploy highly accurate, robust models that drive impact.
+I am actively seeking **Data Scientist roles** where I can leverage both my advanced data science training and my software engineering background to deploy highly accurate, robust models that drive impact.
 
 <!-- <div>
     <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
