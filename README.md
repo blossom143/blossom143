@@ -3,7 +3,7 @@ I am an **Applied Data Scientist** with a strong foundation in **Software Engine
 
 Before diving deep into advanced ML models and statistical analysis, I spent **5+ years architecting and scaling mission-critical, high-scale enterprise infrastructure** in the banking sector, managing 300+ microservices for 2M+ active users and building production grade Kubernetes platforms.
 
-**My mission as a Data Scientist is to not just build great machine learning models in a Jupyter Notebook, but to leverage my experience in production, DevOps, and cloud native development to build high-performing models with clean, optimized, production-ready codebases.**
+**My mission as a Data Scientist is to leverage my experience in production, DevOps, and cloud native development to build high-performing models with clean, optimized, production-ready codebases.**
 
 > **My Focus:** Applied Algorithmic Modeling, Production-Grade ML Deployments, Scalable End-to-End Pipelines, Reproducible Data Architectures, Enterprise-Scale System Reliability
 
@@ -49,7 +49,7 @@ Before diving deep into advanced ML models and statistical analysis, I spent **5
 
 ## What I'm Looking For
 
-I am actively seeking **Data Scientist roles** where I can leverage both my advanced data science training and my software engineering background to deploy highly accurate, robust models that drive impact.
+I am actively seeking **Data Science roles** where I can leverage both my advanced data science training and my software engineering background to deploy highly accurate, robust models that drive impact.
 
 <!-- <div>
     <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
@@ -63,10 +63,10 @@ I am actively seeking **Data Scientist roles** where I can leverage both my adva
         <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
 </div>
 
-
+<!--
 > [!IMPORTANT]  
 > <a href="https://docs.google.com/document/d/1xrVG80HHACq2HyWTkbILifScb6ehs1pz/edit?usp=share_link&ouid=100000751235040802892&rtpof=true&sd=true" download>Download my resume</a>
 
-<!--
+
      Thanks for being my guest 
 -->
