@@ -35,7 +35,7 @@ Before diving deep into advanced ML models and statistical analysis, I spent **5
 
 ### [Agentic AI SAT Tutor for Students with ADHD](https://agentic-ai-sat-tutor.onrender.com)
 *This project combines an LLM Agent and a Deep RL model that is trained to dynamically adapt to and interact with K-12 students showcasing ADHD traits using PPO, and DDQN methodologies.*
-*   **Stack:** Python, Langchain, Gymnasium, Flask, DeepSeek, Render, Git
+*   **Stack:** Python, Langchain, Gymnasium, Flask, Langchain_Ollama, Render, Git
 
 
 ### [End-to-End ELT Pipeline with Snowflake, dbt, & Airflow](https://github.com/blossom143/eas550-final-project)
