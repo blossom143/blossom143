@@ -24,9 +24,10 @@ Before diving deep into advanced ML models and statistical analysis, I spent **5
 
 ## Certifications
 
+*   **AWS** – Solutions Architect – Associate
 *   **CKSS** – Certified Kubernetes Security Specialist 
 *   **CKA** – Certified Kubernetes Administrator
-*   **AWS** – Solutions Architect – Associate
+*   **IBM** – AI Engineering Professional
 
 ---
 
