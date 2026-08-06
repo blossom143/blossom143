@@ -24,10 +24,10 @@ Before diving deep into advanced ML models and statistical analysis, I spent **5
 
 ## Certifications
 
-*   **AWS** – Solutions Architect – Associate
-*   **CKSS** – Certified Kubernetes Security Specialist 
-*   **CKA** – Certified Kubernetes Administrator
-*   **IBM** – AI Engineering Professional
+* **[AWS Certified Solutions Architect – Associate](https://www.credly.com/users/tsomorlig-khishigbold)**
+* **[Certified Kubernetes Security Specialist (CKS)](https://www.credly.com/users/tsomorlig-khishigbold)**
+* **[Certified Kubernetes Administrator (CKA)](https://www.credly.com/users/tsomorlig-khishigbold)**
+* **[IBM AI Engineering Professional](https://www.credly.com/users/tsomorlig-khishigbold)**
 
 ---
 
@@ -36,7 +36,7 @@ Before diving deep into advanced ML models and statistical analysis, I spent **5
 ### [Agentic AI SAT Tutor for Students with ADHD](https://agentic-ai-sat-tutor.onrender.com)
 *This project combines an LLM Agent and a Deep RL model that is trained to dynamically adapt to and interact with K-12 students showcasing ADHD traits using PPO, and DDQN methodologies. *
 *   **Stack:** Python, Langchain, Gymnasium, Flask, DeepSeek, Render, Git
-*  [GitHub Repository](https://github.com/blossom143/eas550-final-project/tree/main)
+
 
 ### [End-to-End ELT Pipeline with Snowflake, dbt, & Airflow](https://github.com/blossom143/eas550-final-project)
 *Built a scalable data engineering pipeline that ingests raw datasets into Snowflake and uses dbt to transform them into highly optimized dimensional models with rigorous automated data integrity testing.*
