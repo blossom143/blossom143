@@ -1,11 +1,13 @@
 ## Hi there, I'm Tsomorlig (Summer) 👋👋 
 I am an **Applied Data Scientist** with a strong foundation in **Software Engineering** (B.E.) and am advancing my degree in **Data Science** (M.S., GPA 3.8/4.0) from the University at Buffalo. 
 
-Before diving deep into advanced ML models and statistical analysis, I spent **5+ years architecting and scaling mission-critical, high-scale enterprise infrastructure** in the banking sector, managing 300+ microservices for 2M+ active users and building production grade Kubernetes platforms.
+Before diving deep into advanced ML models and statistical analysis, I spent **5+ years architecting and scaling mission-critical, high-scale enterprise infrastructure** in the banking sector, managing 200+ microservices for 2M+ active users and building production grade Kubernetes platforms.
 
+<!--
 **My mission as a Data Scientist is to leverage my experience in production, DevOps, and cloud native development to build high-performing models with clean, optimized, production-ready codebases.**
+-->
 
-> **My Focus:** Applied Algorithmic Modeling, Production-Grade ML Deployments, Scalable End-to-End Pipelines, Reproducible Data Architectures, Enterprise-Scale System Reliability
+> **My Focus:** LLMOps, Multi-Agent Systems, Orchestration, Advanced Retrieval, Optimization & Fine-tuning
 
 <!--
     Happy to see you here exploring my README code
@@ -50,7 +52,7 @@ Before diving deep into advanced ML models and statistical analysis, I spent **5
 
 ## What I'm Looking For
 
-I am actively seeking applied **Data Science roles** where I can leverage both my advanced data science training and my software engineering background to deploy highly accurate, robust models that drive impact.
+I am actively seeking applied roles building, and working with **LLM Agents** where I can leverage both my advanced data science training and my software engineering background to deploy highly accurate, robust models that drive impact.
 
 <!-- <div>
     <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
@@ -64,10 +66,9 @@ I am actively seeking applied **Data Science roles** where I can leverage both m
         <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
 </div>
 
-<!--
-> [!IMPORTANT]  
-> <a href="https://docs.google.com/document/d/1xrVG80HHACq2HyWTkbILifScb6ehs1pz/edit?usp=share_link&ouid=100000751235040802892&rtpof=true&sd=true" download>Download my resume</a>
 
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/1a82EuWxXVKRXld7ZLu6cS19ZzhmbQvn6/view?usp=sharing" download>Download my resume</a>
 
      Thanks for being my guest 
--->
+
