@@ -66,9 +66,9 @@ I am actively seeking applied roles building, and working with **LLM Agents** wh
         <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
 </div>
 
-
+<!--
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1a82EuWxXVKRXld7ZLu6cS19ZzhmbQvn6/view?usp=sharing" download>Download my resume</a>
 
      Thanks for being my guest 
-
+-->
