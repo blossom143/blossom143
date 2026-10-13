@@ -35,7 +35,7 @@ Before diving deep into advanced ML models and statistical analysis, I spent **5
 
 ## Featured Projects
 
-### [Amirlan | RAG Based Customer Service Voice Agent](https://amirlan.onrender.com)
+### [Mongolian RAG Based Customer Service Voice Agent](https://amirlan.onrender.com)
 *A real-time Mongolian speech-to-speech voice agent powered by a ReACT agentic RAG workflow, integrating advanced STT/TTS models and LangChain.*
 *   **Stack:** Python, Flask, Langchain, Chirp-3 (STT), Google TTS, Render, Git
 
