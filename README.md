@@ -1,5 +1,5 @@
 ## Hi there, I'm Tsomorlig (Summer) 👋👋 
-I am an **Applied Data Scientist** with a strong foundation in **Software Engineering** (B.E.) and am advancing my degree in **Data Science** (M.S., GPA 3.8/4.0) from the University at Buffalo. 
+I am an **Applied Data Scientist/ML Engineer** with a strong foundation in **Software Engineering** (B.E.) and am advancing my degree in **Data Science** (M.S., GPA 3.8/4.0) from the University at Buffalo. 
 
 Before diving deep into advanced ML models and statistical analysis, I spent **5+ years architecting and scaling mission-critical, high-scale enterprise infrastructure** in the banking sector, managing 200+ microservices for 2M+ active users and building production grade Kubernetes platforms.
 
