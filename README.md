@@ -1,5 +1,5 @@
-## Hi there, I'm Tsomorlig (Summer) 👋👋 
-I am an **Applied Data Scientist/ML Engineer** with a strong foundation in **Software Engineering** (B.E.) and am advancing my degree in **Data Science** (M.S., GPA 3.8/4.0) from the University at Buffalo. 
+## Well, hello! I'm Tsomorlig (Summer for short).
+I am a Data Science MS candidate (GPA 3.8/4.0) with a strong foundation in **Software Engineering** (B.E.) and an interest in developing **agentic systems**.
 
 Before diving deep into advanced ML models and statistical analysis, I spent **5+ years architecting and scaling mission-critical, high-scale enterprise infrastructure** in the banking sector, managing 200+ microservices for 2M+ active users and building production grade Kubernetes platforms.
 
@@ -7,7 +7,7 @@ Before diving deep into advanced ML models and statistical analysis, I spent **5
 **My mission as a Data Scientist is to leverage my experience in production, DevOps, and cloud native development to build high-performing models with clean, optimized, production-ready codebases.**
 -->
 
-> **My Focus:** LLMOps, Multi-Agent Systems, Orchestration, Advanced Retrieval, Optimization & Fine-tuning
+> **My Focus:** LLMOps, Multi-Agent Systems, Orchestration, Advanced Retrieval, Multimodal models, Optimization & Fine-tuning
 
 <!--
     Happy to see you here exploring my README code
@@ -57,7 +57,7 @@ Before diving deep into advanced ML models and statistical analysis, I spent **5
 
 ## What I'm Looking For
 
-I am actively seeking applied roles building, and working with **LLM Agents** where I can leverage both my advanced data science training and my software engineering background to deploy highly accurate, robust models that drive impact.
+I am actively seeking applied roles building, and working with **Agentic** systems, where I can leverage both my advanced data science and software engineering background to deploy highly accurate, robust models that drive impact.
 
 <!-- <div>
     <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
