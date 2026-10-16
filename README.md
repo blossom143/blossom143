@@ -1,4 +1,4 @@
-## Hi, there!.
+## Hi, there!
 I am a Data Science MS candidate (GPA 3.8/4.0) with a strong foundation in **Software Engineering** (B.E.) and an interest in developing **agentic systems**.
 
 Before diving deep into advanced ML models and statistical analysis, I spent **5+ years architecting and scaling mission-critical, high-scale enterprise infrastructure** in the banking sector, managing 200+ microservices for 2M+ active users and building production grade Kubernetes platforms.
