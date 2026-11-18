@@ -7,7 +7,7 @@ Before diving deep into advanced ML models and statistical analysis, I spent **5
 **My mission as a Data Scientist is to leverage my experience in production, DevOps, and cloud native development to build high-performing models with clean, optimized, production-ready codebases.**
 -->
 
-> **My Focus:** LLMOps, Multi-Agent Systems, Orchestration, Advanced Retrieval, Multimodal models, Optimization & Fine-tuning
+> **My Focus:** MLOps & AgentOps, AI/ML Infrastructure, Orchestration, Observability, CI/CD/CT
 
 <!--
     Happy to see you here exploring my README code
